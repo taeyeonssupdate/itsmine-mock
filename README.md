@@ -1,2 +1,1 @@
-# itsmine-mock
-pdf example
+application/vnd.fdf
